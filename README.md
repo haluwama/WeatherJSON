@@ -6,6 +6,6 @@ Here's a screenshot before the app run.
 
 Here's a screenshot after the app run.
 
-![After using](img/file2.PNG)
+![After using](/img/file2.PNG)
 
 
